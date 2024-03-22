@@ -109,6 +109,4 @@ int main() {
     if (remainingAttempts == 0) {
         std::cout << "You ran out of attempts! The correct word was: " << secretWord << "\n";
     }
-
-    return 0;
 }
